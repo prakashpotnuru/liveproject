@@ -1,5 +1,5 @@
 package com.suneel.apicalling.ModelResponse;
-
+//just for practice
 import java.io.Serializable;
 import java.lang.String;
 
